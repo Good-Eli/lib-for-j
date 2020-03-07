@@ -4,4 +4,4 @@ function geturlstat ($url) {
     Else {$result = "failure"}
     return $result
     }
-Write-Output "PowerShell function successfully connected from GitHub!"
+Write-Output " >>> PowerShell function successfully connected from GitHub!"
