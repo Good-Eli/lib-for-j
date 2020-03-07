@@ -4,4 +4,3 @@ function geturlstat ($url) {
     Else {$result = "failure"}
     return $result
 }
-geturlstat (google.com)
