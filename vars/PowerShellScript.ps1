@@ -5,3 +5,4 @@ function geturlstat ($url) {
     return $result
     }
 Write-Output "Func get!"
+geturlstat -google.com
