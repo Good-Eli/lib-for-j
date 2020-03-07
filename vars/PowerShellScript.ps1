@@ -3,5 +3,5 @@ function geturlstat ($url) {
     {$result = "success"}
     Else {$result = "failure"}
     return $result
-    Write-Output "Func get!"
-}
+    }
+Write-Output "Func get!"
